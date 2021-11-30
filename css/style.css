@@ -373,7 +373,7 @@ a {
 }
 
 .school-child:nth-child(2) {
-  padding-right: 3rem;
+  width: 40%;
   align-self: center;
 }
 
@@ -1092,6 +1092,15 @@ a {
 
   .animation-item-image > img {
     width: 100%;
+  }
+
+  .school-child:nth-child(1) {
+    align-self: center;
+  }
+
+  .school-child:nth-child(2) {
+    width: 60%;
+    align-self: center;
   }
 }
 
