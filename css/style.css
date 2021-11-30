@@ -125,7 +125,7 @@ a {
   width: 45%;
 }
 
-.hero-item h1 {
+.hero-item .h1 {
   font-family: 'senseiMedium', sans-serif;
   font-size: 8.4rem;
   line-height: 8.5rem;
@@ -351,7 +351,7 @@ a {
   gap: 2.5rem;
 }
 
-.school-item .school-child > h1 {
+.school-item .school-child > .h1 {
   font-family: 'senseiMedium', sans-serif;
   font-size: 8.4rem;
   line-height: 1;
@@ -1113,7 +1113,7 @@ a {
 }
 
 @media (max-width: 500px) {
-  .hero-item h1 {
+  .hero-item .h1 {
     text-align: center;
   }
 
