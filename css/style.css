@@ -1156,4 +1156,20 @@ a {
   .hero-item .hero-item-flex .btn-learnMore {
     width: 15rem;
   }
+
+  .hero-item .h1 {
+    font-family: 'senseiMedium', sans-serif;
+    font-size: 7rem;
+    line-height: 6.5rem;
+    font-weight: 400;
+  }
+
+  .school-item .school-child > .h1 {
+    font-family: 'senseiMedium', sans-serif;
+    font-size: 7rem;
+    line-height: 1;
+    font-weight: 400;
+    line-height: 7rem;
+    color: #fff;
+  }
 }
