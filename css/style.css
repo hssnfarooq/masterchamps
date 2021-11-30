@@ -1148,4 +1148,12 @@ a {
     gap: 0rem;
     justify-content: flex-start;
   }
+
+  .hero-item .hero-item-flex .btn-signup {
+    width: 15rem;
+  }
+
+  .hero-item .hero-item-flex .btn-learnMore {
+    width: 15rem;
+  }
 }
