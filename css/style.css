@@ -1104,8 +1104,7 @@ a {
     left: 0;
     right: 0;
     background: #fff;
-    border-top: 0.1rem solid rgba(0, 0, 0, 0.2);
-    border-bottom: 0.1rem solid rgba(0, 0, 0, 0.2);
+    border-top: 0.1rem solid #eee;
     padding: 1rem;
     clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
   }
