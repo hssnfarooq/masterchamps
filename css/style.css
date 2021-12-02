@@ -53,6 +53,11 @@ a {
 .header {
   background: #ffaf3a;
   padding: 2.2rem 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
 }
 
 .header .header-content {
@@ -107,6 +112,7 @@ a {
 /* Hero-Section */
 .hero-section {
   background: #fff;
+  padding-top: 115px;
 }
 
 .hero-section > img {
@@ -265,7 +271,9 @@ a {
 }
 
 .teacher-section > img {
+  display: block;
   width: 100%;
+  max-width: 100%;
 }
 
 .teacher-main-content {
@@ -607,7 +615,9 @@ a {
 }
 
 .animation-section > img {
+  display: block;
   width: 100%;
+  max-width: 100%;
 }
 
 .animation-main-content {
@@ -712,7 +722,9 @@ a {
 }
 
 .work-section > img {
+  display: block;
   width: 100%;
+  max-width: 100%;
 }
 
 .work-content {
